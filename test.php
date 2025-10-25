@@ -1,7 +1,8 @@
 <?php 
-echo "Sebuah $buah $warna"; //Sebuah 
+error_reporting(0);
+echo "Sebuah $buah $warna<br>"; //Sebuah 
 include 'vars.php'; 
-echo "Sebuah $buah $warna"; //Sebuah apel hijau 
+echo "Sebuah $buah $warna<br><br>"; //Sebuah apel hijau 
 ?> 
 
 <?php 
